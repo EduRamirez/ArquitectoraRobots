@@ -1,2 +1,3 @@
 Seleccionar el posible proyecto de la lista de la biblia. 
 Validar que proyectos son rentables de la lista. 
+La opcion 3 es la pistola de 360 grados con el joistick 
