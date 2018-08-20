@@ -1,3 +1,13 @@
-Seleccionar el posible proyecto de la lista de la biblia. 
+Seleccionar el posible proyecto de la lista de la biblia que ofrece el maestro. 
 Validar que proyectos son rentables de la lista. 
-La opcion de la garra tambien parece muy interesante. 
+
+Entre la lista de proyectos esta algunos como: 
+
+1-Hacer una garra robotica.
+2-Hacer una pistola 360grados con laser.
+3-Reconocimiento facial. 
+
+La opcion de la garra me parece interesante. 
+
+Que podria hacer?
+
